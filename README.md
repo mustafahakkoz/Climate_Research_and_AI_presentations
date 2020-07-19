@@ -23,8 +23,8 @@ And organisation site: https://www.climatechange.ai/
 
 
 
-## [Presentation - 1](https://github.com/mustafahakkoz/MIPS_Projects/tree/master/project1)
+## [Presentation - 1](https://github.com/mustafahakkoz/Climate_Research_and_AI_presentations/tree/master/presentation-1)
 
-## [Presentation - 2](https://github.com/mustafahakkoz/MIPS_Projects/tree/master/project2)
+## [Presentation - 2](https://github.com/mustafahakkoz/Climate_Research_and_AI_presentations/blob/master/presentation-2)
 
-## [Presentation - 3](https://github.com/mustafahakkoz/MIPS_Projects/tree/master/project2)
+## [Presentation - 3](https://github.com/mustafahakkoz/Climate_Research_and_AI_presentations/tree/master/presentation-3)
